@@ -1,0 +1,13 @@
+Use LYNCA Image2 Preview Standard v1.5.
+
+Single image input → single output.
+
+Requirements:
+- Keep slab fully visible
+- Do not crop edges
+- Do not rotate
+- Do not fix mirrored text
+- Low sharpening
+- Preserve face and proportions
+
+No explanation unless failure.
